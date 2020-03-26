@@ -52,7 +52,7 @@
           <div class="col-sm-4">
             <span class="text-white alpha-7 ml-3">Find me on</span>
             <a
-              href="https://github.com/creativetimofficial/argon-design-system"
+              href="https://99designs.com/profiles/nowshadart"
               target="_blank"
               title="Support us on Github"
             >
