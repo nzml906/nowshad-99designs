@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy portfolio'
 
-git push -f https://github.com/nzml906/nowshad-art.git master:gh-pages
+git push -f https://github.com/nzml906/nowshad-99designs.git master:gh-pages
 
 cd -
